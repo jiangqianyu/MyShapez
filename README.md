@@ -1,1 +1,2 @@
 # MyShapez
+In the fall of 2023, I took an advanced C++ programming course.The assignment for the course is to write a game similar to "Shapez". "Shapez" is a game about building a factory. In the game, players need to deliver increasingly complex shapes that meet certain requirements. They progress in the game and unlock upgrades to speed up their factory production. The game is relaxing, as players only need to construct the factory, set up facilities, and various geometric shapes are automatically created without any manual operation.
