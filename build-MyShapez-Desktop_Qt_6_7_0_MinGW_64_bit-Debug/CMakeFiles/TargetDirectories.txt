@@ -1,0 +1,9 @@
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/MyShapez.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/MyShapez_autogen_timestamp_deps.dir
+D:/Daisydaisydaisy/cpp2023fall/MyShapez/build-MyShapez-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/MyShapez_autogen.dir
