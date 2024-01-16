@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/analyzer.png</file>
+        <file>res/balancer.png</file>
+        <file>res/belt.png</file>
+        <file>res/block.png</file>
+        <file>res/comparator.png</file>
+        <file>res/constant_producer.png</file>
+        <file>res/constant_signal.png</file>
+        <file>res/cutter.png</file>
+        <file>res/display.png</file>
+        <file>res/filter.png</file>
+        <file>res/goal_acceptor.png</file>
+        <file>res/item_producer.png</file>
+        <file>res/lever.png</file>
+        <file>res/logic_gate.png</file>
+        <file>res/miner.png</file>
+        <file>res/mixer.png</file>
+        <file>res/painter.png</file>
+        <file>res/reader.png</file>
+        <file>res/rotater.png</file>
+        <file>res/stacker.png</file>
+        <file>res/storage.png</file>
+        <file>res/transistor.png</file>
+        <file>res/trash.png</file>
+        <file>res/underground_belt.png</file>
+        <file>res/virtual_processor.png</file>
+        <file>res/wire.png</file>
+        <file>res/wire_tunnel.png</file>
+        <file>res/icon.png</file>
+    </qresource>
+</RCC>
